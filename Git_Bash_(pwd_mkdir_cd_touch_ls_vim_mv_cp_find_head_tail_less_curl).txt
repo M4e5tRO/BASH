@@ -38,7 +38,7 @@ jjjjjjjj_ErR
 SSSSSSSS_eRr
 88888888
 
---11) + сохранить и выйти.
+-- 11) + сохранить и выйти.
 Esc
 :wq
 Enter
